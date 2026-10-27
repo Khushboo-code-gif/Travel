@@ -1,0 +1,6 @@
+id,name,destination_id,cuisine_type,price_range,avg_cost_for_two,rating,veg_only
+9a77b55c-179c-4e54-a165-0cfc45e87614,"Fisherman's Wharf",5230f0b6-a6bb-4e46-a54e-93b872316710,"{Seafood,Goan}","Medium",1500,4.6,false
+863b682f-6e32-46c3-b82d-a64cadd35ad2,"Saravana Bhavan",27382abc-bd1a-4538-b5f7-7fedf0833bc7,"{South Indian}","Low",500,4.4,true
+28679934-9b9e-4f70-bd5b-ccd5b05f809d,"Chokhi Dhani",c46c1684-031c-4aa8-838f-e801b65d8846,"{Rajasthani}","Medium",1200,4.7,true
+095474a3-ee3f-43cd-9e2c-b88b7319a584,"The Beatles Cafe",bd6866b4-36ff-450c-a393-6055800dd45d,"{Continental,Vegan}","Medium",800,4.5,true
+9455978b-1b72-4e2c-b6b3-8aacfabba389,"Mango Tree Restaurant",83a73636-4e3c-4dec-81ff-ab71a401a335,"{Indian,Global}","Low",600,4.6,true

@@ -1,0 +1,9 @@
+id,name,destination_id,type,price_per_night_avg,rating,amenities
+bcd37b4f-618f-4d21-8b95-32be31b1a0e3,"Taj Exotica Resort & Spa",5230f0b6-a6bb-4e46-a54e-93b872316710,"Luxury",25000,4.8,"{Spa,Private Beach,Pool,WiFi}"
+93316817-428b-4b7f-95b1-558626f97ed7,"W Goa",5230f0b6-a6bb-4e46-a54e-93b872316710,"Resort",18000,4.7,"{Nightclub,Pool,Gym}"
+67555502-5ed1-4402-9c47-f18aa75bb5cb,"Amber Dale Luxury Hotel",129e35a4-c48d-4371-af9e-e863ffbca459,"Resort",7500,4.5,"{Spa,Mountain View,Restaurant,WiFi}"
+2b981ced-6502-4617-a94b-dafc58ea2f28,"Fragrant Nature Munnar",129e35a4-c48d-4371-af9e-e863ffbca459,"Luxury",12000,4.6,"{Yoga,Ayurvedic Spa,Nature Trails}"
+f7a08869-21aa-477b-9f5a-25e2ef3365f0,"Oberoi Udaivilas",c46c1684-031c-4aa8-838f-e801b65d8846,"Luxury",65000,4.9,"{Private Pool,Royal Service,Boat Arrival}"
+83e9464a-0b8a-495e-a249-c725f704afe4,"Brij Rama Palace",27382abc-bd1a-4538-b5f7-7fedf0833bc7,"Boutique",20000,4.8,"{Ghat View,Yoga,Ancient Vibes}"
+66109dfc-4969-4836-b81e-ee755bcc96d9,"The Grand Dragon Ladakh",27af522d-a3b4-4030-bd7f-87c32a176483,"Hotel",15000,4.7,"{Oxygen Cylinders,Heated Rooms,Monastery view}"
+86cc94c5-c8c2-411c-ae11-253f1a91383b,"Aloha On The Ganges",bd6866b4-36ff-450c-a393-6055800dd45d,"Resort",9000,4.5,"{River View,Infinity Pool,Yoga Centre}"

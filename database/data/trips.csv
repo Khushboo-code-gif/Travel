@@ -1,0 +1,4 @@
+id,destination_id,mood,budget,duration_days,travel_type,itinerary,is_public,public_slug,share_count
+266b970a-9f5c-4c6d-8f00-87111f1fadfe,5230f0b6-a6bb-4e46-a54e-93b872316710,"Party",15000,5,"friends","[]",true,"goa-party-vibes",69
+eea7d776-fbc0-4d63-9a38-373fbee9fc1e,129e35a4-c48d-4371-af9e-e863ffbca459,"Peaceful",8000,3,"couple","[]",true,"dreamy-munnar",62
+c9cf3a3c-8581-4d00-bd34-312ccc871257,bd6866b4-36ff-450c-a393-6055800dd45d,"Spiritual",5000,4,"solo","[]",true,"spiritual-quest",14
